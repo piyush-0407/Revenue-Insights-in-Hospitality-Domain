@@ -1,5 +1,5 @@
-**Power BI Hospitality Revenue Insights Dashboard 🏨📊
-**
+**Power BI Hospitality Revenue Insights Dashboard** 🏨📊
+
 This repository showcases a Power BI dashboard designed for "AtliQ Grands," a chain of five-star hotels. The project's core objective is to deliver comprehensive revenue insights, enabling data-driven decisions to enhance performance and competitive strategy within the hospitality sector. ✨
 
 **Project Overview**
